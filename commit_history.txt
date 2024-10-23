@@ -1,0 +1,15 @@
+Partner1: Amulya Jasti, amjamz
+Partner2: Sarah Morrison, smorrison21
+
+5d4e866 - smorrison21, 2 minutes ago : Merge pull request #4 from amjamz/histogram
+0c76f2c - smorrison21, 3 minutes ago : Merge branch 'main' into histogram
+7465edc - amjamz, 5 minutes ago : Merge pull request #3 from amjamz/describe
+deb4b16 - amjamz, 6 minutes ago : Added histogram code to preview_data
+e011609 - smorrison21, 13 minutes ago : edited function to add describe to function preview_data
+61e1543 - amjamz, 21 minutes ago : Merge pull request #2 from amjamz/merge-conflict-Sarah-2
+0b64d0b - smorrison21, 22 minutes ago : Merge branch 'main' into merge-conflict-Sarah-2
+9362da4 - smorrison21, 26 minutes ago : changed name on the ps3_pair.qmd file
+cf8f555 - smorrison21, 34 minutes ago : Merge pull request #1 from amjamz/merge_conflict_amulya
+19348d4 - amjamz, 70 minutes ago : Added my name where Dema Therese is.
+82ea6df - amjamz, 77 minutes ago : Adding shortcuts doc
+6d07a87 - amjamz, 17 hours ago : Added PS3 template
