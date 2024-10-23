@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "Sarah Morrison"
+author: "Sarah Morrison & Amulya Jasti"
 format: 
   pdf:
     include-in-header: 
@@ -31,8 +31,6 @@ def preview_data(df):
     alt.X('Random Numbers:Q', bin=True),
     alt.Y('count():Q')
   )
-  return [df.head(), chart]
-
-
+  return [df.head(), chart, df.describe()]
 preview_data(data)
 ```
